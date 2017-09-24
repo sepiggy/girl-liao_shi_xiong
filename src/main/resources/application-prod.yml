@@ -1,0 +1,9 @@
+server:
+  port: 8081
+  # context-path: /girl
+
+girl:
+  cupSize: F
+  age: 18
+  # 在配置里面使用当前属性配置
+  # content: "cupSize: ${cupSize}, age: ${age}"
