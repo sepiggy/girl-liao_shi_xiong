@@ -1,4 +1,4 @@
-package cn.sepiggy.imooc.girlliao_shi_xiong;
+package cn.sepiggy.imooc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

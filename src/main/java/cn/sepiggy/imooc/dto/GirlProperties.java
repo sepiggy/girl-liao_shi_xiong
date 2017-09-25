@@ -1,4 +1,4 @@
-package cn.sepiggy.imooc.girlliao_shi_xiong;
+package cn.sepiggy.imooc.dto;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;

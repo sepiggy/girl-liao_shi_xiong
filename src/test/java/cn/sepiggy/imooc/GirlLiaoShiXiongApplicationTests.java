@@ -1,4 +1,4 @@
-package cn.sepiggy.imooc.girlliao_shi_xiong;
+package cn.sepiggy.imooc;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
